@@ -1,4 +1,4 @@
-# Prayag Sathyanath
+# Hi there, I'm Prayag <img src="images\waving-hand.gif" alt="hi" width="35px" height="35px">
 
 **`Data Enthusiast|Front-End Engineer|Branding Strategist`**
 
