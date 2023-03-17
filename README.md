@@ -39,3 +39,6 @@ As an avid data and technology enthusiast, I am constantly seeking out opportuni
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prayagsat99&theme=tokyonight&hide_border=true&border_radius=1.8&mode=weekly)](https://git.io/streak-stats)
+  
